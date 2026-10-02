@@ -1,0 +1,4 @@
+Omni-Hunt Dependencies
+Python 3.8+
+websockets>=10.0
+dnspython>=2.1.0
